@@ -1,0 +1,1 @@
+![Architecture](../Zappora_architecture.png)
